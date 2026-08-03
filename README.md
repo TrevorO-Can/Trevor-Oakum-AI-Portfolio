@@ -16,8 +16,9 @@ deep learning and computer vision. With this degree, I have aspirations to build
 ### Introduction to Machine Learning (ITAL-1371)
 
 ### Computer Vision (ITAI 1378)
-- [Object Detection System](link-to-project) - Real-time detection using YOLO
-- [Image Segmentation](link-to-project) - Semantic segmentation with U-Net
+- [Link]: https://github.com/TrevorO-Can/Trevor-Oakum-1378-AI-Portfolio/tree/main
+- [Object Detection System]
+- [Image Segmentation]
 
 
 ## Contact
