@@ -15,11 +15,14 @@ deep learning and computer vision. With this degree, I have aspirations to build
 
 ### Introduction to Machine Learning (ITAL-1371)
 
-### Computer Vision (ITAI 1378)
+### Computer Vision (ITAL-1378)
 - [Link] [https://github.com/TrevorO-Can/Trevor-Oakum-1378-AI-Portfolio/tree/main]
 - [Object Detection System]
-- [Image Segmentation]
-
+- [Concepts Learned]:
+  - [Image Segmentation, Classification, and Detection]
+  - [Familiarity with models such as YOLO, ResNet]
+  - [Traditional NNs and CNNs in Computer Vision Applications]
+  - [Fundamentals of Image Processing]
 
 ## Contact
 - Email: tmanoakum@gmail.com  
